@@ -6,6 +6,5 @@ nopCommerce permits us to make various stores that run utilizing a solitary back
 
 
 
-![Banner](https://github.com/rajibsahani29/NopCommerce/blob/master/1.png?raw=true "Banner")
 ![Banner](https://github.com/rajibsahani29/NopCommerce/blob/master/2.png?raw=true "Banner")
 ![Banner](https://github.com/rajibsahani29/NopCommerce/blob/master/3.png?raw=true "Banner")
