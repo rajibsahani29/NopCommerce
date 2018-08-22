@@ -6,7 +6,7 @@ nopCommerce permits us to make various stores that run utilizing a solitary back
 
 <b>Project Structure Screen</b>
 
-![Banner](https://github.com/rajibsahani29/NopCommerce/blob/master/6.png?raw=true "Banner")
+![Banner](https://github.com/rajibsahani29/NopCommerce/blob/master/5.png?raw=true "Banner")
 
 <b>Home Screen</b>
 
