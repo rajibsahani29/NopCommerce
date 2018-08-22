@@ -8,6 +8,11 @@ nopCommerce permits us to make various stores that run utilizing a solitary back
 
 ![Banner](https://github.com/rajibsahani29/NopCommerce/blob/master/2.png?raw=true "Banner")
 
-When we will click on <b>"ADD TO CART"</b> button,it will goes to this page which will show all details.
+When you will click on <b>"ADD TO CART"</b> button,it will goes to this page which will show all details.
 
 ![Banner](https://github.com/rajibsahani29/NopCommerce/blob/master/3.png?raw=true "Banner")
+
+
+Again when you will click on <b>"ADD TO CART"</b> button,it will add the products in your Shooping Cart.
+
+![Banner](https://github.com/rajibsahani29/NopCommerce/blob/master/4.png?raw=true "Banner")
